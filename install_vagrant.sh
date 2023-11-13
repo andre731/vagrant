@@ -1,5 +1,10 @@
 #!/bin/bash
 
+echo 'Instalando Virtualbox... 🚀'
+
+# Install Virtualbox provider
+sudo apt install virtualbox
+
 # Add HashiCorp GPG key
 
 echo 'Adicionando chave GPG... 🔑'
