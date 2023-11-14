@@ -1,2 +1,4 @@
 ubuntu-bionic*
 .vagrant*
+**node_modules
+**package-lock.json
